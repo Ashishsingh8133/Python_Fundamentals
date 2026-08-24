@@ -18,9 +18,15 @@ The purpose of this repository is to:
 * Learn how Python handles files, exceptions, memory, and concurrency
 * Create a strong programming foundation for **Data Analysis, Data Science, and Machine Learning**
 
----
-
 # 📚 Topics Covered
+
+## 00. Loops,Conditions,Data Types
+
+- **Data Types** — Working with Python's built-in data types and understanding their characteristics.
+- **Conditional Statements** — Using `if`, `elif`, `else`, and logical operators for decision-making.
+- **Loops** — Using `for`, `while`, `range()`, `break`, and `continue` for iteration and flow control.
+
+📁 Folder: `00_Variables_Loops_Conditions`
 
 ## 01. Inbuilt Data Structures
 
